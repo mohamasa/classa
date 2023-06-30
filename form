@@ -1,0 +1,57 @@
+
+<!DOCTYPE html>
+<html lang="en" dir="lttr">
+<head>
+<title>register</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+<!-- Custom Theme files -->
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all" />
+<!-- //Custom Theme files -->
+
+</head>
+<body>
+	<!-- main -->
+	<div class="karbarwp wrapper">
+		<h1>register for</h1>
+		<div class="main-agileinfo">
+			<div class="agileits-top">
+				<form action="#" method="post">
+					<input class="text" type="text" name="Username" placeholder="username" required="">
+					<input class="text email" type="email" name="email" placeholder="email" required="">
+					<input class="text" type="password" name="password" placeholder="password" required="">
+					<input class="text w3lpass" type="password" name="password" placeholder="password reapet" required="">
+					<div class="wthree-text">
+						<label class="anim">
+							<input type="checkbox" class="checkbox" required="">
+							<span>I have read and accept the terms and conditions of the site.</span>
+						</label>
+						<div class="clear"> </div>
+					</div>
+					<input type="submit" value="register">
+				</form>
+				<p>Do you have an account? <a href="#"> login</a></p>
+			</div>
+		</div>
+		<!-- copyright -->
+		<div class="colorlibcopy-agile">
+			<p>design by<a href="https://youcode.ir/" target="_blank">code</a></p>
+		</div>
+		<!-- //copyright -->
+		<ul class="colorlib-bubbles">
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+			<li></li>
+		</ul>
+	</div>
+	<!-- //main -->
+</body>
+</html>
